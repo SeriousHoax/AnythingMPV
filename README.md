@@ -7,7 +7,7 @@ My personal configuration files, scripts and shaders that I use for MPV on my Wi
 3. After downloading, extract the archive's contents to your preferred location. eg: in my case, `C:\Program Files\MPV`
 4. Navigate to the installer folder, right click on the `mpv-install.bat` file and select `Run as administrator`. Follow the on-screen instructions to complete the installation.
 5. Now go back to the folder where `mpv.exe` is located. Right click on the `updater.bat` file and select `Run as administrator`.  It will ask you if you also want to download `ffmpeg` and `yt-dlp`. Tap Y for both.
-6. From now on, use this `updater.bat` file to update MPV to the latest version. I would also recommend adding the folder where `mpv.exe` is located to the System Environment Variables path so that mpv can be used from CMD/Terminal.
+6. From now on, use this `updater.bat` file to update mpv to the latest version. I would also recommend adding the folder where `mpv.exe` is located to the System Environment Variables path so that mpv can be used from CMD/Terminal.
 
  ## Player UI
 
