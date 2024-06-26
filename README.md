@@ -6,7 +6,8 @@ My personal configuration files, scripts and shaders that I use for MPV on my Wi
 
 ## MPV Installation Guide
 1. Download the latest Windows build of **[mpv](https://mpv.io/)** from **[mpv-winbuild](https://github.com/zhongfly/mpv-winbuild/releases/latest/)**
-2. If Your CPU supports **[AVX2](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions)** instruction set (typically any CPU released since 2015) , then download the latest v3 build, which should be formatted like this: `mpv-x86_64-v3-YYYYMMDD-git-abcxyz.7z`
+2. If Your CPU supports **[AVX2](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions)** instruction set (typically any CPU released since 2015), then download the latest v3 build, which should be formatted like this: `mpv-x86_64-v3-YYYYMMDD-git-abcxyz.7z` 
+You can check if your CPU supports the AVX2 instruction set by using a program like **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**
 3. After downloading, extract the archive's contents to your preferred location. eg: in my case: `C:\Program Files\MPV`
 4. Navigate to the installer folder, right click on the `mpv-install.bat` file, and select `Run as administrator`. Follow the on-screen instructions to complete the installation.
 5. Now go back to the folder where `mpv.exe` is located. Right click on the `updater.bat` file and select `Run as administrator`.  It will ask you if you also want to download `ffmpeg` and `yt-dlp`. Tap Y for both.
