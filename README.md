@@ -46,13 +46,15 @@ But, a folder named `portable_config` next to where mpv.exe is stored can overri
 
 **[uosc](https://github.com/tomasklaen/uosc)**
 
-## Scripts Used
+## Scripts used
 
 **[SmartCopyPaste](https://github.com/Eisa01/mpv-scripts#smartcopypaste)**
 
-## Shaders Used
+## Shaders used
 
-**[CAS-scaled](https://gist.github.com/agyild/bbb4e58298b2f86aa24da3032a0d2ee6)**
+**[SSimSuperRes](https://gist.github.com/igv/2364ffa6e81540f29cb7ab4c9bc05b6b)**
+
+**[SSimDownscaler](https://gist.github.com/igv/36508af3ffc84410fe39761d6969be10)**
 
 **[FSR](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5)**
 
