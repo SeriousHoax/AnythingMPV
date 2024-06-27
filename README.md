@@ -1,4 +1,4 @@
-# Anything-MPV
+# AnythingMPV
 My personal configuration files, scripts and shaders that I use for MPV on my Windows machine.
 
 ## What is MPV?
