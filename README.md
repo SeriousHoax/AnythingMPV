@@ -50,6 +50,10 @@ But, a folder named `portable_config` next to where mpv.exe is stored can overri
 
 **[SmartCopyPaste](https://github.com/Eisa01/mpv-scripts#smartcopypaste)**
 
+**[UndoRedo](https://github.com/Eisa01/mpv-scripts#undoredo)**
+
+**[cycle-video-rotate](https://github.com/VideoPlayerCode/mpv-tools/blob/master/scripts/cycle-video-rotate.lua)**
+
 ## Shaders used
 
 **[SSimSuperRes](https://gist.github.com/igv/2364ffa6e81540f29cb7ab4c9bc05b6b)**
