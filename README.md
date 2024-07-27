@@ -73,3 +73,7 @@ Sharpening shaders - To be used on demand for very low quality content:
 **[FSR](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5)**
 
 **[adaptive-sharpen](https://gist.github.com/igv/8a77e4eb8276753b54bb94c1c50c317e)**
+
+High-quality real-time upscaling/denoising shaders for Animated content only. Only mode "A" and "A+A" are used in my config:
+
+**[Anime4K](https://github.com/bloc97/Anime4K)**
