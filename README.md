@@ -50,6 +50,10 @@ But, a folder named `portable_config` next to where mpv.exe is stored can overri
 
 **[SmartCopyPaste](https://github.com/Eisa01/mpv-scripts#smartcopypaste)**
 
+**[thumbfast](https://github.com/po5/thumbfast)**
+
+**[trackselect](https://github.com/po5/trackselect)**
+
 **[UndoRedo](https://github.com/Eisa01/mpv-scripts#undoredo)**
 
 **[cycle-video-rotate](https://github.com/VideoPlayerCode/mpv-tools/blob/master/scripts/cycle-video-rotate.lua)**
