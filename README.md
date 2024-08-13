@@ -64,17 +64,7 @@ Upscaler:
 
 **[SSimSuperRes](https://gist.github.com/igv/2364ffa6e81540f29cb7ab4c9bc05b6b)**
 
-Downscaler:
-
-**[SSimDownscaler](https://gist.github.com/igv/36508af3ffc84410fe39761d6969be10)**
-
-Chroma upscaler:
-
-**[KrigBilateral](https://gist.github.com/igv/a015fc885d5c22e6891820ad89555637)**
-
-Sharpening shaders - To be used on demand for very low quality content:
-
-**[FSR](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5)**
+Sharpening shader:
 
 **[adaptive-sharpen](https://gist.github.com/igv/8a77e4eb8276753b54bb94c1c50c317e)**
 
