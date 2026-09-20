@@ -58,6 +58,8 @@ But, a folder named `portable_config` next to where mpv.exe is stored can overri
 
 **[cycle-video-rotate](https://github.com/VideoPlayerCode/mpv-tools/blob/master/scripts/cycle-video-rotate.lua)**
 
+**[Click-Pause-Fullscreen](https://github.com/SeriousHoax/AnythingMPV/blob/main/scripts/Click-Pause-Fullscreen.lua)**
+
 ## Shaders used
 
 Upscaler:
